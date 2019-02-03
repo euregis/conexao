@@ -1,0 +1,15 @@
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\Conexao.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\Conexao.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\Antlr3.Runtime.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\Castle.Core.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\FluentNHibernate.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\Iesi.Collections.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\log4net.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\NHibernate.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\NHibernate.Linq.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Debug\system.data.sqlite.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\obj\Debug\Conexao.csprojResolveAssemblyReference.cache
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\obj\Debug\Conexao.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\obj\Debug\Conexao.pdb

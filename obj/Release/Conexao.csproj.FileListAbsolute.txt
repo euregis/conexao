@@ -1,0 +1,30 @@
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\obj\Release\Conexao.csprojResolveAssemblyReference.cache
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\Conexao.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\Conexao.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\Antlr3.Runtime.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\Castle.Core.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\Castle.DynamicProxy2.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\FluentNHibernate.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\Iesi.Collections.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\log4net.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\NHibernate.ByteCode.Castle.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\NHibernate.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\NHibernate.Linq.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\bin\Release\system.data.sqlite.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\obj\Release\Conexao.dll
+C:\Users\eureg\Downloads\H\Nova pasta\Conexao\obj\Release\Conexao.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\Conexao.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\Conexao.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\Antlr3.Runtime.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\Castle.Core.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\Castle.DynamicProxy2.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\FluentNHibernate.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\Iesi.Collections.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\log4net.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\NHibernate.ByteCode.Castle.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\NHibernate.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\NHibernate.Linq.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\bin\Release\system.data.sqlite.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\obj\Release\Conexao.csprojResolveAssemblyReference.cache
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\obj\Release\Conexao.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\Conexao\obj\Release\Conexao.pdb
